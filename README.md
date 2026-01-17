@@ -1,1 +1,2 @@
 没什么好说的，有很多种情况会导致识别不准确，原理自己看源码分析吧
+网址https://ttmax66.github.io/QQWImgR/
